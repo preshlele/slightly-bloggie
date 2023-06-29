@@ -1,10 +1,11 @@
-import { useNavigate, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { fetchPost } from "../../api/posts";
 import { useQuery } from "@tanstack/react-query";
+import BackButton from "../components/BackButton";
+import background from "../assets/background.jpg";
 
 const Posts = () => {
-  const {id} = useParams();
-  const navigate = useNavigate()
+  const { id } = useParams();
 
   const {
     isError,
@@ -13,23 +14,29 @@ const Posts = () => {
     error,
   } = useQuery({
     queryKey: ["posts", id],
-    queryFn: () => fetchPost(id) ,
+    queryFn: () => fetchPost(id),
   });
 
-  if (isLoading) return "loading"
+  if (isLoading) return "loading";
 
-    
-  
-  
   if (isError) return `error: ${error.message}`;
 
   return (
-    <div className="bg-gray-300">
-      <button className="bg-red-600" onClick={() =>navigate('/')}>Back to all posts</button>
-      <h1>{post?.title}</h1>
-      <p>{post?.body}</p>
+    <div className="bg-gray-50 h-screen">
+      <BackButton />
+      <div className="my-12 mx-20 flex flex-col items-center h-1/2">
+        <img
+          src={background}
+          alt="background"
+          className="w-full h-full object-contain"
+        />
+        <div className="w-4/5">
+          <h1 className="text-3xl w-full font-bold my-3">{post?.title}</h1>
+          <p className="text-gray-400 ">{post?.body}</p>
+        </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Posts
+export default Posts;

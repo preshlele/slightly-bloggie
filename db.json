@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post One updated",
-      "body": "I have edited the deets of this post"
+      "title": "Numero Uno",
+      "body": "This is the first one and it's not supposed to leave the container for real! if it happens again I am leaving your sorrry ass"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
+      "title": "Post 2 update ",
+      "body": "Presh is a fuckin genius"
     },
     {
       "id": 3,
@@ -17,8 +17,8 @@
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "body": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam."
+      "title": "Working 4",
+      "body": "Big 4 jigga what is going on"
     },
     {
       "id": 5,
@@ -34,6 +34,41 @@
       "id": "fb1a6f2b-a00c-fbdd-8186-9a35004a7fe3",
       "title": "Toast something",
       "body": "Just toast the thing for me"
+    },
+    {
+      "id": "a43a2680-e1f1-10ce-b19b-5a10d57a97f6",
+      "title": "",
+      "body": "Sarkodie is the greatest\n"
+    },
+    {
+      "id": "720642fc-e752-c7c4-e292-bac4c52aa9a8",
+      "title": "Fixed background",
+      "body": "React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface based on changes in data. Next.js is a framework built on top of React that adds server-side rendering and other features, enabling developers to build fast and SEO-friendly web applications. Next.js simplifies the setup process, provides routing capabilities, and supports server-side rendering, static site generation, and hybrid rendering. It offers a great developer experience and helps optimize performance, making it a powerful tool for building modern web applications."
+    },
+    {
+      "id": "0e6c4ce0-793b-2513-abd5-fb7c065eed82",
+      "title": "Asem ft Kwabena Kwabena",
+      "body": "Byebtye"
+    },
+    {
+      "id": "9fb569d0-af17-ba70-6357-b2b6e79389b8",
+      "title": "Fixing the post modal",
+      "body": "Morem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia."
+    },
+    {
+      "id": "b18f96a5-b9e2-1c04-ae85-b6e4a3a13196",
+      "title": "This worked",
+      "body": "Bull crap worked hurray !! sldkkkkkkkkkkkkkkkkkkkkkfj"
+    },
+    {
+      "id": "b3dc45b4-c517-fcf8-6855-7b34360db8d1",
+      "title": "Slightly techie",
+      "body": "React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface based on changes in data. Next.js is a framework built on top of React that adds server-side rendering and other features, enabling developers to build fast and SEO-friendly web applications. Next.js simplifies the setup process, provides routing capabilities, and supports server-side rendering, static site generation, and hybrid rendering. It offers a great developer experience and helps optimize performance, making it a powerful tool for building modern web applications."
+    },
+    {
+      "id": "8bdd46eb-3c86-87cb-53ba-4d507448b151",
+      "title": "Sarkodie the greatest",
+      "body": "React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface based on changes in data. Next.js is a framework built on top of React that adds server-side rendering and other features, enabling developers to build fast and SEO-friendly web applications. Next.js simplifies the setup process, provides routing capabilities, and supports server-side rendering, static site generation, and hybrid rendering. It offers a great developer experience and helps optimize performance, making it a powerful tool for building modern web applications."
     }
   ]
 }
