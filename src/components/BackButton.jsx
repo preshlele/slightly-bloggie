@@ -1,14 +1,16 @@
 import React from 'react'
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom'; 
+import {BiArrowBack} from "react-icons/bi"
 
 const BackButton = () => {
     const navigate = useNavigate()
   return (
     <button
-      className="bg-[#89123E] text-white px-5 py-2 rounded-md my-5 mx-3"
+      className="text-[#89123E] cursor-pointer hover:underline text-lg font-medium px-5 py-2 flex items-center gap-2 rounded-md my-5 mx-3"
       onClick={() => navigate("/")}
     >
-      Back
+      <BiArrowBack size={20} className="text-[#89123E]" />
+      back
     </button>
   );
 }

@@ -56,11 +56,6 @@
       "body": "Morem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia."
     },
     {
-      "id": "b18f96a5-b9e2-1c04-ae85-b6e4a3a13196",
-      "title": "This worked",
-      "body": "Bull crap worked hurray !! sldkkkkkkkkkkkkkkkkkkkkkfj"
-    },
-    {
       "id": "b3dc45b4-c517-fcf8-6855-7b34360db8d1",
       "title": "Slightly techie",
       "body": "React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface based on changes in data. Next.js is a framework built on top of React that adds server-side rendering and other features, enabling developers to build fast and SEO-friendly web applications. Next.js simplifies the setup process, provides routing capabilities, and supports server-side rendering, static site generation, and hybrid rendering. It offers a great developer experience and helps optimize performance, making it a powerful tool for building modern web applications."
